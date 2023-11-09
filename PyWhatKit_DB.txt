@@ -1,0 +1,180 @@
+Date: 23/10/2023
+Time: 22:22
+Phone Number: +5571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 23/10/2023
+Time: 22:45
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 23/10/2023
+Time: 22:54
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 24/10/2023
+Time: 0:20
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 24/10/2023
+Time: 0:35
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 24/10/2023
+Time: 1:15
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 24/10/2023
+Time: 1:18
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 24/10/2023
+Time: 2:17
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:15
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:19
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:32
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:33
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:38
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:39
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:41
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:44
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:45
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:47
+Phone Number: +525571923641
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 26/10/2023
+Time: 22:55
+Phone Number: +525637977724
+Message: Hola, este es un mensaje de prueba desde Python.
+--------------------
+Date: 27/10/2023
+Time: 10:13
+Phone Number: +525951145714
+Message: Acaba de llegar tu hijo a la escuela a las :
+--------------------
+Date: 27/10/2023
+Time: 10:14
+Phone Number: +525951145714
+Message: Acaba de llegar tu hijo a la escuela a las :
+--------------------
+Date: 27/10/2023
+Time: 10:15
+Phone Number: +525951145714
+Message: Acaba de llegar tu hijo a la escuela a las :
+--------------------
+Date: 27/10/2023
+Time: 10:16
+Phone Number: +525951145714
+Message: Acaba de llegar tu hijo a la escuela a las :
+--------------------
+Date: 27/10/2023
+Time: 10:21
+Phone Number: +525951145714
+Message: Acaba de llegar tu hijo a la escuela a las :
+--------------------
+Date: 27/10/2023
+Time: 10:28
+Phone Number: +525951145714
+Message: Acaba de llegar tu hijo a la escuela a las :2023-10-27 en : 10:28
+--------------------
+Date: 29/10/2023
+Time: 10:29
+Phone Number: +525637977724
+Message: Acaba de llegar tu hijo a la escuela a las 10:29 hoy : 2023-10-29
+--------------------
+Date: 29/10/2023
+Time: 17:2
+Phone Number: +525951145714
+Message: Acaba de llegar tu hijo a la escuela a las 17:02 hoy : 2023-10-29
+--------------------
+Date: 29/10/2023
+Time: 17:8
+Phone Number: +525637977724
+Message: Acaba de llegar tu hijo a la escuela a las 17:08 hoy : 2023-10-29
+--------------------
+Date: 29/10/2023
+Time: 17:10
+Phone Number: +525637977724
+Message: Acaba de llegar tu hijo a la escuela a las 17:10 hoy : 2023-10-29
+--------------------
+Date: 5/11/2023
+Time: 23:55
+Phone Number: +525571923641
+Message: Acaba de llegar tu hijo a la escuela a las 23:55 hoy : 2023-11-05
+--------------------
+Date: 6/11/2023
+Time: 0:3
+Phone Number: +525637977724
+Message: Acaba de llegar tu hijo a la escuela a las 00:03 hoy : 2023-11-06
+--------------------
+Date: 6/11/2023
+Time: 11:36
+Phone Number: +525565739307
+Message: Acaba de llegar tu hijo a la escuela a las 11:36 hoy : 2023-11-06
+--------------------
+Date: 6/11/2023
+Time: 11:47
+Phone Number: +525565739307
+Message: Acaba de llegar tu hijo a la escuela a las 11:47 hoy : 2023-11-06
+--------------------
+Date: 6/11/2023
+Time: 11:51
+Phone Number: +525565739307
+Message: Acaba de llegar tu hijo a la escuela a las 11:51 hoy : 2023-11-06
+--------------------
+Date: 6/11/2023
+Time: 11:53
+Phone Number: +525571923641
+Message: Acaba de llegar tu hijo a la escuela a las 11:53 hoy : 2023-11-06
+--------------------
+Date: 8/11/2023
+Time: 21:20
+Phone Number: +525951145714
+Message: Acaba de llegar tu hijo a la escuela a las 21:20 hoy : 2023-11-08
+--------------------
